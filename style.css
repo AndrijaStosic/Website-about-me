@@ -1,0 +1,62 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.pocetna_stranica {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.pocetna_stranica h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+.pocetna_stranica a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.pocetna_stranica a:hover {
+    text-decoration: underline;
+}
+
+.BORDERI {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.BORDER2 {
+    margin-bottom: 20px;
+}
+
+.BORDER2 h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.BORDER2 ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.BORDER2 li {
+    background-color: #e0e0e0;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.BORDER2 li strong {
+    font-size: 1.2em;
+}
